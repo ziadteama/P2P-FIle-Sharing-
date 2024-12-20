@@ -1,6 +1,7 @@
 {
-  "name": "p2p-file-sharing",
+  "name": "server",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2",
     "socket.io": "^4.8.1"
